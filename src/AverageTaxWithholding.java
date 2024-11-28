@@ -1,3 +1,5 @@
+// CSC320 Module 3 - Option 1 by Wyeth Abel
+
 import java.util.Scanner;
 
 public class AverageTaxWithholding {
